@@ -1,0 +1,10 @@
+title: Tourism System
+description: A module for tourists and tourism providers to optimize routes ,manage crowd density and key attraction updates.
+
+User functions :
+Find optimal route check waitlist get near by attractions 
+
+
+Update crowd density analyze visitor flow 
+Update : attraction status 
+theme: jekyll-theme-cayman 
