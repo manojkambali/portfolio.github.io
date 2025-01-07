@@ -21,18 +21,14 @@ Algorithm : Shortest path , BFS , Queue .
 
 - *Project 2*: Booking System
 -  A module that handles booking , availability  for customers and service providers ,allowing easy management of reservations.
-
 User functions:
 Make booking ,cancel booking and get booking history 
-
 Provider functions:
 Update availability process pending bookings retrieve bookings by date 
-
 Algorithm:
 Availability check ,sequential booking management 
-
 Data structure : 
-Hashmap , linked list ![image](https://github.com/user-attachments/assets/c0b46aec-0499-4089-8204-af5bde564449)
+Hashmap , linked list 
 
 
 ## 🚀 Skills
