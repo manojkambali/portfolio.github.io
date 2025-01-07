@@ -6,29 +6,20 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠 Projects
-- *Project 1*:Tourisim Management
+- *Project 1*: Tourisim Management
 - A module for tourists and tourism providers to optimize routes ,manage crowd density and key attraction updates.
-
-User functions :
-Find optimal route check waitlist get near by attractions 
-
-Provider functions :
-Update crowd density analyze visitor flow 
-Update : attraction status 
-
-Algorithm : Shortest path , BFS , Queue .
+- User functions : Find optimal route check waitlist get near by attractions
+- Provider functions : Update crowd density analyze visitor flow
+- Update : attraction status
+- Algorithm : Shortest path , BFS , Queue .
 
 
 - *Project 2*: Booking System
 -  A module that handles booking , availability  for customers and service providers ,allowing easy management of reservations.
-User functions:
-Make booking ,cancel booking and get booking history 
-Provider functions:
-Update availability process pending bookings retrieve bookings by date 
-Algorithm:
-Availability check ,sequential booking management 
-Data structure : 
-Hashmap , linked list 
+-  User functions: Make booking ,cancel booking and get booking history
+-  Provider functions: Update availability process pending bookings retrieve bookings by date
+-  Algorithm: Availability check ,sequential booking management
+-  Data structure : Hashmap , linked list 
 
 
 ## 🚀 Skills
